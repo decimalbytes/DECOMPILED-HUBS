@@ -1,6 +1,3 @@
--- discord.gg/25ms
-
-
 local v8 = loadstring(game:HttpGet('https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua'))();
 local v9 = v8:CreateWindow({
     Title = 'NEOX HUB | FISCHv1.5',
